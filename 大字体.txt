@@ -1,0 +1,51 @@
+echo              OOOOOOOOO             KKKKKKKKK    KKKKKKK
+echo            OO:::::::::OO           K:::::::K    K:::::K
+echo          OO:::::::::::::OO         K:::::::K    K:::::K
+echo         O:::::::OOO:::::::O        K:::::::K   K::::::K
+echo         O::::::O   O::::::O        KK::::::K  K:::::KKK
+echo         O:::::O     O:::::O          K:::::K K:::::K   
+echo         O:::::O     O:::::O          K::::::K:::::K    
+echo         O:::::O     O:::::O          K:::::::::::K     
+echo         O:::::O     O:::::O          K:::::::::::K     
+echo         O:::::O     O:::::O          K::::::K:::::K    
+echo         O:::::O     O:::::O          K:::::K K:::::K   
+echo         O::::::O   O::::::O        KK::::::K  K:::::KKK
+echo         O:::::::OOO:::::::O        K:::::::K   K::::::K
+echo          OO:::::::::::::OO         K:::::::K    K:::::K
+echo            OO:::::::::OO           K:::::::K    K:::::K
+echo              OOOOOOOOO             KKKKKKKKK    KKKKKKK
+
+  
+echo     NNNNNNNN        NNNNNNNN             GGGGGGGGGGGGG
+echo     N:::::::N       N::::::N          GGG::::::::::::G
+echo     N::::::::N      N::::::N        GG:::::::::::::::G
+echo     N:::::::::N     N::::::N       G:::::GGGGGGGG::::G
+echo     N::::::::::N    N::::::N      G:::::G       GGGGGG
+echo     N:::::::::::N   N::::::N     G:::::G              
+echo     N:::::::N::::N  N::::::N     G:::::G              
+echo     N::::::N N::::N N::::::N     G:::::G    GGGGGGGGGG
+echo     N::::::N  N::::N:::::::N     G:::::G    G::::::::G
+echo     N::::::N   N:::::::::::N     G:::::G    GGGGG::::G
+echo     N::::::N    N::::::::::N     G:::::G        G::::G
+echo     N::::::N     N:::::::::N      G:::::G       G::::G
+echo     N::::::N      N::::::::N       G:::::GGGGGGGG::::G
+echo     N::::::N       N:::::::N        GG:::::::::::::::G
+echo     N::::::N        N::::::N          GGG::::::GGG:::G
+echo     NNNNNNNN         NNNNNNN             GGGGGG   GGGG 
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+   
